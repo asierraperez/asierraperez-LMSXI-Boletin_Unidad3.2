@@ -1,0 +1,164 @@
+body {
+    margin-top: 100px;
+    margin-right: 40px;
+    margin-bottom: 10px;
+    margin-left: 70px;
+}
+#Tablero1{
+    margin-bottom: 100px;
+}
+#Tablero1 #fila11{
+    margin-left: 50px;
+    border-width: 10px;
+    border-style: dotted;
+    border-color: rgb(40, 139, 78);
+    padding: 50px;
+    background-color: rgb(215, 230, 12);
+}
+#Tablero1 #fila12{
+    border-width: 10px;
+    border-style: solid;
+    border-top-style:double;
+    border-bottom-style:double;
+    border-color: rgb(86, 22, 206);
+    padding: 50px;
+}
+#Tablero1 #fila13{
+    border-width: 10px;
+    border-style:dashed;
+    border-color: crimson;
+    border-right-color: rgb(167, 38, 145);
+    border-left-color: rgb(207, 230, 7);   
+    padding: 50px;
+}
+#Tablero1 p{
+    margin-bottom: 120px;
+}
+#Tablero1 #fila21{
+    margin-left: 50px;
+    border-width: 10px;
+    border-style: outset;
+    border-color: rgb(50, 40, 139);
+    padding: 50px;
+    background-color: green;
+}
+#Tablero1 #fila22{
+    border-width: 10px;
+    border-style: groove;
+    border-top-style: dotted;
+    border-left-style:dotted;
+    border-color: rgb(207, 18, 50);
+    border-bottom-color: hotpink;
+    padding: 50px;
+}
+#Tablero1 #fila23{
+    border-width: 10px;
+    border-style:solid;
+    border-color: rgb(0, 30, 128);
+    padding: 50px;
+    background-color: rgb(12, 179, 230);
+}
+#Tablero1 #fila31{
+    margin-left: 50px;
+    border-width: 10px;
+    border-style:inset;
+    border-color: rgb(59, 71, 49);
+    border-bottom-color: rgb(105, 238, 255);
+    border-top-style: dotted;
+    padding: 50px;
+}
+#Tablero1 #fila32{
+    border-width: 10px;
+    border-style:double;
+    border-color: rgb(0, 0, 0);
+    border-top-color: rgb(234, 0, 255);
+    padding: 50px;
+    background-color: rgb(230, 12, 12);
+}
+#Tablero1 #fila33{
+    border-width: 10px;
+    border-style:ridge;
+    border-color: rgb(221, 133, 133);
+    border-right-style:dashed;
+    padding: 50px;
+}
+
+#Tablero2 p{
+    margin-bottom: 70px;
+}
+#Tablero2  #fila11{
+    margin-left: 50px;
+    border-width: 5px;
+    border-style: double;
+    border-top-style:dashed;
+    border-color: rgb(71, 158, 161);
+    padding: 30px;
+    background-color: rgb(12, 230, 41);
+}
+#Tablero2  #fila12{
+    border-width: 5px;
+    border-style:groove;
+    border-color: rgb(86, 22, 206);
+    border-bottom-color:aqua;   
+    padding: 30px;
+    background-color: rgb(12, 99, 230);
+}
+#Tablero2  #fila13{
+    border-width: 5px;
+    border-style:dotted;
+    border-color: rgb(217, 220, 20);
+    border-top-color: rgb(236, 175, 226);
+    border-right-color: rgba(7, 230, 174, 0.267);   
+    padding: 30px;
+    background-color: rgb(230, 12, 77);
+}
+#Tablero2  #fila21{
+    margin-left: 50px;
+    border-width: 5px;
+    border-style: double;
+    border-color: rgb(255, 0, 0);
+    padding: 30px;
+    background-color: rgb(60, 0, 128);
+}
+#Tablero2  #fila22{
+    border-width: 5px;
+    border-style:dashed;
+    border-color: rgb(207, 18, 50);
+    border-bottom-color: hotpink;
+    padding: 30px;
+    background-color: rgb(126, 128, 0);
+}
+#Tablero2  #fila23{
+    border-width: 5px;
+    border-style:inset;
+    border-color: rgb(128, 126, 0);
+    padding: 30px;
+    background-color: rgb(77, 12, 230);
+}
+#Tablero2 #fila31{
+    margin-left: 50px;
+    border-width: 5px;
+    border-style:outset;
+    border-color: rgb(107, 230, 7);
+    border-left-color: rgb(185, 208, 211);
+    border-left-style: dotted;
+    padding: 30px;
+    background-color: rgb(12, 230, 96);
+}
+#Tablero2  #fila32{
+    border-width: 5px;
+    border-style:groove;
+    border-color: rgb(60, 74, 134);
+    border-top-color: rgb(234, 0, 255);
+    padding: 30px;
+    background-color: rgb(206, 252, 0);
+}
+#Tablero2  #fila33{
+    border-width: 5px;
+    border-style:dashed;
+    border-color: rgb(255, 0, 0);
+    border-right-color:darkmagenta;
+    border-left-color:rgb(139, 63, 0);
+    padding: 30px;
+    background-color: rgb(252, 0, 231);
+}
